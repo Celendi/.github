@@ -2,5 +2,5 @@
 
 - Website: https://celendi.xyz/ 
 - Documentation: https://docs.celendi.xyz/
-- Donations: https://kofi.com/celendi
+- Donations: https://kofi.com/celendibot
 - Twitter: https://twitter.com/CelendiBot/
